@@ -1,0 +1,8 @@
+[user]
+    name = John Maguire
+[init]
+    templatedir = /home/jmaguire/.git_template
+[alias]
+    ctags = !.git/hooks/ctags
+[include]
+    path = "~/.gitconfig-local"
